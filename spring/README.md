@@ -1,5 +1,5 @@
 # SPRING BOOT
-**Learning Notes/Projects with Framework Spring Boot**
-**Notas/Projetos de Aprendizado com o Framework Spring Boot**
+**Learning Notes or Projects with Framework Spring Boot**
+**Notas ou Projetos de Aprendizado com o Framework Spring Boot**
 
 
