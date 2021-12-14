@@ -1,0 +1,8 @@
+# FOLDERS
+bin/
+obj/
+
+# FILES
+*.cbp
+*.depend
+*.layout
