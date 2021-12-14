@@ -1,6 +1,6 @@
-#CRUD
+# CRUD
 
-##Definição
+## Definição
 | Prefixo                            | Descrição          | Método                                              | Código           |
 |------------------------------------|--------------------|-----------------------------------------------------|------------------|
 | <span style="color:cyan;">C</span> | Create / Criar     | <span style="color:rgb(0, 255, 150);">POST</span>   | 201 (CREATED)    |
@@ -8,12 +8,12 @@
 | <span style="color:cyan;">U</span> | Update / Atualizar | <span style="color:rgb(220, 0, 200);">PUT</span>    | 200 (OK)         |
 | <span style="color:cyan;">D</span> | Delete / Deletar   | <span style="color:rgb(255, 50, 50);">DELETE</span> | 204 (NO CONTENT) |
 
-##Execução
+## Execução
 ```
     mvn spring-boot:run
 ```
 
-##Caminhos da API
+## Caminhos da API
 <!--#
     id=
 $-->
@@ -24,7 +24,7 @@ $-->
 | <span style="color:cyan;">U</span> | Atualiza      | <span style="color:rgb(220, 0, 200);">PUT</span>    | localhost:8080/crud/<span style="color:yellow">{id}</span> | [link](localhost:8080/crud/0) |
 | <span style="color:cyan;">D</span> | Deleta        | <span style="color:rgb(255, 50, 50);">DELETE</span> | localhost:8080/crud/<span style="color:yellow">{id}</span> | [link](localhost:8080/crud/0) |
 
-##Resultado Operação para visualizar os Métodos
+## Resultado Operação para visualizar os Métodos
 ```
     [
         {
